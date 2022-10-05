@@ -18,7 +18,7 @@ ___
 
 ### Contact Info:
 <ul>
-<li>https://www.linkedin.com/in/HamzahJe/</li>
+<li>[Linkedin](https://www.linkedin.com/in/HamzahJe/)</li>
 </ul>
 
 ### Skills:
