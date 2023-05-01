@@ -7,7 +7,7 @@ ___
 ### Interests:
 - Anything Tech 🔬
 - Building/Fixing PCs & Laptops 💻 🖥 🛠
-- I love learning new skills! 🤓
+- Learning new skills! 🤓
 - Exploring new places! 🚀
 - Nature 🏞 🏕
 - Biking 🚲 🚵‍♂️ 
