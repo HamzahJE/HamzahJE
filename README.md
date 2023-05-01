@@ -23,5 +23,9 @@ ___
 - Jupyter Notebook 📊
 - Bootstrap
 - HTML/CSS 👨🏼‍💻
-- C Programming
+- C 
+- C++ Programming
+- Databricks
+- SQL
+
 
