@@ -2,7 +2,7 @@
 ___
 ### Quick Facts About Me:
 - I am an Engineering student who loves to learn.
-- Currently in a Bootcamp studying Software Development.
+- Currently full-time @Perficient and part-time @UofM.
 
 ### Interests:
 - Anything Tech 🔬
