@@ -2,7 +2,8 @@
 ___
 ### Quick Facts About Me:
 - I am an Engineering student who loves to learn.
-- Currently full-time @Perficient and part-time @UofM.
+- Prev @Perficient
+- Full-time @UofM.
 
 ### Interests:
 - Anything Tech 🔬
