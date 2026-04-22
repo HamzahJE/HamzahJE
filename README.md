@@ -3,9 +3,8 @@
 ![My GitHub Game](game.gif)
 ___
 ### Quick Facts About Me:
-- I am an Engineering student who loves to learn.
 - Prev @Perficient
-- Full-time @UofM.
+- Computer Engineering @UMD.
 
 ### Interests:
 - Anything Tech 🔬
